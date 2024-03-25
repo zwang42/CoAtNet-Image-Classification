@@ -1,0 +1,1 @@
+This notebook trains from scratch a convolutional neural network (ResNet-50), a vision transformer (ViT-base), and an implementation of the CoAtNet (https://arxiv.org/abs/2106.04803) using Pytorch for classification of images on the Imagenette dataset, a subset of ImageNet with 10 classes. 
